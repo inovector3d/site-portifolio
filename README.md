@@ -36,7 +36,7 @@ Nesse curso você vai dorminar todo o **git** e **github** _do zero ao profissio
 
 
 
-**Comando para rodar o projeto:**
+### Comando para rodar o projeto:
 ```
 npm start
 ```
@@ -69,4 +69,6 @@ name | Para informar o nome do usuario
 size | Para definir o tamanho do campo
 background | Cor de fundo da área em HEX
 onPress | Função chamada quando clicar no botão
+
+
 
