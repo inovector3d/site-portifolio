@@ -2,6 +2,7 @@
 # Bem ao vindo ao curso git e github
 Nesse curso você vai dorminar todo o **git** e **github** _do zero ao profissional_
 
+**Ultimos updates:**
 - [x] Site resposivo
 - [ ] Login com com facebook
 - [ ] Página sobre a empresa
@@ -9,7 +10,7 @@ Nesse curso você vai dorminar todo o **git** e **github** _do zero ao profissio
 ## Modulos:
 * Começando com GIT
 * Apredendo sobre branches
-* GIT Avançado
+* GIT Avançado 
 * Usando github de forma prossifional
 
 1. Começando com o GIT
@@ -62,5 +63,10 @@ function showName(name){
     color: #FF0000;
 }
 ```
-
+Propriedade| Descrição
+---------- | ---------
+name | Para informar o nome do usuario
+size | Para definir o tamanho do campo
+background | Cor de fundo da área em HEX
+onPress | Função chamada quando clicar no botão
 
