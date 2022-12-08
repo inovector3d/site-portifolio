@@ -25,3 +25,38 @@ Nesse curso você vai dorminar todo o **git** e **github** _do zero ao profissio
 
 [Youtube](https://youtube.com)
 
+>Este é um bloquote, usado para destacar alguma área
+>
+> Segunda área
+
+
+
+**Comando para rodar o projeto:**
+```
+npm start
+```
+
+**Exemplo de uso do script:**
+```js
+function showName(name){
+    return 'Bem vindo: '+ name;
+}
+```
+
+**Uso de componente HTML**
+```html
+<h1>
+    Titulo do projeto
+    <span>Curso Git<span>
+</h1>
+```
+
+**CSS padrão do projeto:**
+```css
+.titulo{
+    background-color: #FFFF;
+    color: #FF0000;
+}
+```
+
+
